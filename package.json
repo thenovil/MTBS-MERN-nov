@@ -1,64 +1,27 @@
 {
-  "name": "dotenv",
-  "version": "16.3.1",
-  "description": "Loads environment variables from .env file",
-  "main": "lib/main.js",
-  "types": "lib/main.d.ts",
-  "exports": {
-    ".": {
-      "types": "./lib/main.d.ts",
-      "require": "./lib/main.js",
-      "default": "./lib/main.js"
-    },
-    "./config": "./config.js",
-    "./config.js": "./config.js",
-    "./lib/env-options": "./lib/env-options.js",
-    "./lib/env-options.js": "./lib/env-options.js",
-    "./lib/cli-options": "./lib/cli-options.js",
-    "./lib/cli-options.js": "./lib/cli-options.js",
-    "./package.json": "./package.json"
-  },
+  "name": "util-deprecate",
+  "version": "1.0.2",
+  "description": "The Node.js `util.deprecate()` function with browser support",
+  "main": "node.js",
+  "browser": "browser.js",
   "scripts": {
-    "dts-check": "tsc --project tests/types/tsconfig.json",
-    "lint": "standard",
-    "lint-readme": "standard-markdown",
-    "pretest": "npm run lint && npm run dts-check",
-    "test": "tap tests/*.js --100 -Rspec",
-    "prerelease": "npm test",
-    "release": "standard-version"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/motdotla/dotenv.git"
+    "url": "git://github.com/TooTallNate/util-deprecate.git"
   },
-  "funding": "https://github.com/motdotla/dotenv?sponsor=1",
   "keywords": [
-    "dotenv",
-    "env",
-    ".env",
-    "environment",
-    "variables",
-    "config",
-    "settings"
+    "util",
+    "deprecate",
+    "browserify",
+    "browser",
+    "node"
   ],
-  "readmeFilename": "README.md",
-  "license": "BSD-2-Clause",
-  "devDependencies": {
-    "@definitelytyped/dtslint": "^0.0.133",
-    "@types/node": "^18.11.3",
-    "decache": "^4.6.1",
-    "sinon": "^14.0.1",
-    "standard": "^17.0.0",
-    "standard-markdown": "^7.1.0",
-    "standard-version": "^9.5.0",
-    "tap": "^16.3.0",
-    "tar": "^6.1.11",
-    "typescript": "^4.8.4"
+  "author": "Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TooTallNate/util-deprecate/issues"
   },
-  "engines": {
-    "node": ">=12"
-  },
-  "browser": {
-    "fs": false
-  }
+  "homepage": "https://github.com/TooTallNate/util-deprecate"
 }
