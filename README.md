@@ -84,14 +84,14 @@ ASHO DEKHI is a movie ticket booking website that allows users to explore movies
 
 ### Customer
 
-![customer](/demo/Customer.png)
+![customer](/Customer.png)
 
 ### Admin
 
-![admin](/Admin1.png)
-![admin](/Admin2.png)
-![admin](/Admin3.png)
-![admin](/Admin4.png)
+![admin](./Admin1.png)
+![admin](./Admin2.png)
+![admin](./Admin3.png)
+![admin](./Admin4.png)
 
 ### About Us
 
