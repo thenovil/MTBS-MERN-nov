@@ -52,35 +52,35 @@ ASHO DEKHI is a movie ticket booking website that allows users to explore movies
 
 ### HomePage
 
-![Home](/demo/Home1.png)
-![Home](/demo/Home2.png)
-![Home](/demo/Home3.png)
-![Home](/demo/Home4.png)
+![Home](/Home1.png)
+![Home](/Home2.png)
+![Home](/Home3.png)
+![Home](/Home4.png)
 
 ### Showtimes
 
-![Showtimes](/demo/Showtimes1.png)
-![Showtimes](/demo/Showtimes2.png)
+![Showtimes](/Showtimes1.png)
+![Showtimes](/Showtimes2.png)
 
 ### Payment Gateway
 
-![Payment](/demo/Purchase1.png)
-![Payment](/demo/Purchase2.png)
-![Payment](/demo/Purchase3.png)
+![Payment](/Purchase1.png)
+![Payment](/Purchase2.png)
+![Payment](/Purchase3.png)
 
 ### Movie Details
 
-![MovieDetail](/demo/MovieDetails1.png)
-![MovieDetail](/demo/MovieDetails2.png)
-![MovieDetail](/demo/MovieDetails3.png)
+![MovieDetail](/MovieDetails1.png)
+![MovieDetail](/MovieDetails2.png)
+![MovieDetail](/MovieDetails3.png)
 
 ### SignUp Modal
 
-![Modal](/demo/signup.png)
+![Modal](/signup.png)
 
 ### Login Modal
 
-![Modal](/demo/login.png)
+![Modal](/login.png)
 
 ### Customer
 
@@ -89,13 +89,13 @@ ASHO DEKHI is a movie ticket booking website that allows users to explore movies
 ### Admin
 
 ![admin](/Admin1.png)
-![admin](/demo/Admin2.png)
-![admin](/demo/Admin3.png)
-![admin](/demo/Admin4.png)
+![admin](/Admin2.png)
+![admin](/Admin3.png)
+![admin](/Admin4.png)
 
 ### About Us
 
-![aboutus](/demo/Aboutus.png)
+![aboutus](/Aboutus.png)
 
 ## Getting Started
 
